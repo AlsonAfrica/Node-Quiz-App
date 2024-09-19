@@ -19,6 +19,14 @@ const questions = [
   {
     question: 'What is the color of the sky?',
     answer: 'blue'
+  },
+  {
+    question: 'How many continents are there?',
+    answer: '7'
+  },
+  {
+    question: 'Who wrote "To Kill a Mockingbird"?',
+    answer: 'Harper Lee'
   }
 ];
 
@@ -107,7 +115,6 @@ function askQuestion() {
 
 // Start the quiz
 startQuiz();
-
 
 
 
